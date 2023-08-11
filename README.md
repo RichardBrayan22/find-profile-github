@@ -25,7 +25,7 @@ Pré-requisitos: npm / yarn | Utilizado NODE: 14.18.2
 
 ```bash
 # clonar repositório
-git clone https://github.com/RichardBrayan22/bds08.git
+git clone https://github.com/RichardBrayan22/find-profile-github.git
 
 # entrar na pasta do projeto front end web
 cd front-web
